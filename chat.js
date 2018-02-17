@@ -34,7 +34,7 @@ function ChangeBG(name, content) {
             case "藍色":
                 BGcolorList[name] = "rgba(0%,0%,50%,0.5);"
                 break;
-            case "白色":
+            case "白色": 
                 BGcolorList[name] = "rgba(100%,100%,100%,0.5);"
                 break;
             case "灰色":
